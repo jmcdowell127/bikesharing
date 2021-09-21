@@ -9,7 +9,7 @@ The purpose of this project was to figure out if a bike rental business, Citi Bi
 * Show the gender breakdown of active riders.
 
 __Tableau Story Link__:
-[City Bike Challenge](https://public.tableau.com/app/profile/john2095/viz/CitiBikeChallnge/CitiBike?publish=yes "Citi Bike Challenge")
+[link to dashboard](https://public.tableau.com/app/profile/john2095/viz/CitiBikeChallnge/CitiBike?publish=yes "Citi Bike Challenge")
 
 ## Results
 __Checkout Times for Users__ - *All trips are less than 1 hour with the majority being between 5 to 30 minutes.*
