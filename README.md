@@ -8,6 +8,9 @@ The purpose of this project was to figure out if a bike rental business, Citi Bi
 * Show the peak riding hours in the month of August.
 * Show the gender breakdown of active riders.
 
+__Tableau Story Link__:
+[City Bike Challenge](https://public.tableau.com/app/profile/john2095/viz/CitiBikeChallnge/CitiBike?publish=yes "Citi Bike Challenge")
+
 ## Results
 __Checkout Times for Users__ - *All trips are less than 1 hour with the majority being between 5 to 30 minutes.*
  * <img width="622" alt="checkout_users" src="https://user-images.githubusercontent.com/85372441/134232118-119e081c-5d63-42cb-8894-70ddf6f392d8.png">
@@ -26,7 +29,9 @@ __Gender Breakdown__ - *There are 1,530,272 male users(orange), 588,431 female u
 
 ## Summary
 Based on my analysis I have come to a few conclusions. The best times for completing bike maintenance are from 12 AM to 5 AM, this is because the peak hours of usage start around 7 AM and does not slow down much until 11 PM. While the data shows that the large majority of users are men, both genders are using Citi Bikes for an average trip time between 5 to 30 minutes with none exceeding 1 hour. Weekdays are where the majority of business is being had with Saturday, Sunday and Wednesday being the slowest days. 
+
 __Recommendations__
+
 I would recommend adding a couple more visualizations with the given dataset.
 1. A visualization that displays the the number of bikes availiable (bikeid) compared to the number of users (tripdata csv) to see if there is adequate amount of bikes for the customer/subscriber base.
 2. A visualization that displays the age of users (birth year) compared to starting locations (start station latitude + start station longitude) to see how closely they are to colleges, universities, and downtown areas. 
